@@ -14,7 +14,7 @@ const Layout = ({ children }) => {
             <a className="nav-link page-scroll" href="https://www.startfitness.life">HOME</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link page-scroll" href="https://www.startfitness.life/blog">BLOG</a>
+            <a className="nav-link page-scroll" href="https://www.startfitness.life/news">BLOG</a>
           </li>
           <li className="nav-item">
             <a className="nav-link page-scroll" href="https://www.startfitness.life/privacy-policy.html">PRIVACY</a>
