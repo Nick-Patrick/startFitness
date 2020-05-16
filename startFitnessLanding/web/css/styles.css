@@ -62,6 +62,42 @@ body, p {
 	font: 400 0.75rem/1.25rem "Open Sans", sans-serif;
 }
 
+.blog-post p {
+	font: inherit;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.blog-post h3, .blog-post h4 {
+	 margin-top: 50px;
+	 color: #f5c95a;
+	 font-weight: 500;
+}
+
+.blog-post li {
+	margin-left: 40px;
+	font: inherit;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.blog-post a {
+	font-weight: 900;
+	text-decoration: none;
+}
+
+.blog-post blockquote {
+	border-left-color: #f5c95a;
+	margin-left: 40px;
+	padding-left: 16px;
+}
+
+.blog-post blockquote p {
+	font-style: normal;
+}
+
 .p-heading {
 	margin-bottom: 3.75rem;
 	text-align: center;
@@ -1546,6 +1582,19 @@ a:hover.back-to-top {
 	background-color: #f9fafc;
 }
 
+@media (min-width: 768px) {
+	.header-blog .header-content {
+		padding-top: 60px !important;
+		padding-bottom: 60px !important;
+	}
+}
+
+@media (max-width: 768px) {
+	.header-blog .header-content {
+		padding-top: 0px !important;
+		padding-bottom: 0px !important;
+	}
+}
 
 /*****************************/
 /*     18. Media Queries     */
