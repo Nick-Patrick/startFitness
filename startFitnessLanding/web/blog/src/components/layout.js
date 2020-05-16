@@ -118,20 +118,11 @@ const Layout = ({ children }) => {
       <div className="container">
         <div className="row">
           <div className="col-lg-12">
-            <p className="p-small">Copyright © 2020 <a href="http://startfitness.life">Start Fitness</a> - All rights reserved</p>
+            <p className="p-small">Copyright © 2020 <a href="https://www.startfitness.life">Start Fitness</a> - All rights reserved</p>
           </div>
         </div>
       </div>
     </div>
-    <script src="../../../js/jquery.min.js"></script> 
-    <script src="../../../js/popper.min.js"></script> 
-    <script src="../../../js/bootstrap.min.js"></script>
-    <script src="../../../js/jquery.easing.min.js"></script> 
-    <script src="../../../js/swiper.min.js"></script> 
-    <script src="../../../js/jquery.magnific-popup.js"></script>
-    <script src="../../../js/morphext.min.js"></script>
-    <script src="../../../js/validator.min.js"></script>
-    <script src="../../../js/scripts.js"></script>
   </div>
   )
 }

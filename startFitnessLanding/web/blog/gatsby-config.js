@@ -11,6 +11,7 @@ module.exports = {
       twitter: `StartFitness321`,
     },
   },
+  pathPrefix: `/news`,
   plugins: [
     {
       resolve: `gatsby-plugin-canonical-urls`,

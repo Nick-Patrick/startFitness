@@ -4,7 +4,7 @@ import "typeface-merriweather"
 
 import "prismjs/themes/prism.css"
     
-import "../css/bootstrap.css"
-import "../css/fontawesome-all.css"
-import "../css/magnific-popup.css"
-import "../css/styles.css"
+import "./src/css/bootstrap.css"
+import "./src/css/fontawesome-all.css"
+import "./src/css/magnific-popup.css"
+import "./src/css/styles.css"
