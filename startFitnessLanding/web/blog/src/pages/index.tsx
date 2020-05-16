@@ -45,7 +45,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
               <h3 style={{ marginBottom: rhythm(1 / 4) }}>
                 <small style={{fontSize: 16, textDecoration: 'none'}}>{node.frontmatter.date}</small>
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  <h4 style={{fontSize: 30, textTransform: 'none', letterSpacing: .90}}><span className='yellow'>{title}</span></h4>
+                  <h4 style={{fontSize: 30, textTransform: 'none', letterSpacing: .90, lineHeight: 1.3}}><span className='yellow'>{title}</span></h4>
                 </Link>
               </h3>
             </header>

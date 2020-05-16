@@ -76,11 +76,15 @@ body, p {
 }
 
 .blog-post li {
-	margin-left: 40px;
 	font: inherit;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 	font-size: 16px;
 	line-height: 24px;
+}
+@media (min-width: 1000px) {
+	.blog-post li {
+		margin-left: 40px;
+	}
 }
 
 .blog-post a {
@@ -90,8 +94,13 @@ body, p {
 
 .blog-post blockquote {
 	border-left-color: #f5c95a;
-	margin-left: 40px;
-	padding-left: 16px;
+}
+
+@media (min-width: 1000px) {
+	.blog-post blockquote {
+		margin-left: 40px;
+		padding-left: 16px;
+	}
 }
 
 .blog-post blockquote p {

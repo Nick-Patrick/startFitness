@@ -59,7 +59,7 @@ const Layout = ({ children }) => {
     <div>
       { header }
       <main className="tabs">
-        <div className="container col-8">
+        <div className="container col-xs-11 col-md-8">
           {children}
         </div>
       </main>
