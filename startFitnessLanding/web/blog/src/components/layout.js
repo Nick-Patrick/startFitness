@@ -56,7 +56,7 @@ const Layout = ({ children }) => {
   )
 
   return (
-    <div>
+    <div className="blog-main">
       { header }
       <main className="tabs">
         <div className="container col-xs-11 col-md-8">
