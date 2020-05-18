@@ -38,6 +38,27 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         </header>
         <section className='blog-post' dangerouslySetInnerHTML={{ __html: post.html }} />
+       
+        <hr style={{backgroundColor: '#f5ca5a', borderWidth: 2, marginTop: 30 }} />
+
+        <div className="row" style={{ paddingTop: 20, paddingBottom: 10 }}>
+          <div className="col-12 col-lg-6">
+            <div className="text-container">
+              <h4>We'll coach you through this workout with the 'Start Rowing' app</h4>
+            </div>
+          </div>
+          <div className="col-12 col-lg-6">
+            <p style={{ textAlign: 'center' }}>
+              <a className="btn-solid-lg" style={{backgroundColor: '#f5ca5a', color: 'black'}} href="https://apps.apple.com/us/app/start-rowing/id1504306767?ls=1"><i className="fab fa-apple"></i>Download on iOS</a>
+            </p>
+            <p style={{ textAlign: 'center' }}>
+              <a className="btn-solid-lg" style={{backgroundColor: '#f5ca5a', color: 'black'}} href="https://play.google.com/store/apps/details?id=com.simplyfit.rowing"><i className="fab fa-google-play"></i>Download on Android</a>
+            </p>
+          </div>
+        </div>
+
+        <hr style={{backgroundColor: '#f5ca5a', borderWidth: 2 }} />
+
       </article>
 
       <nav>
