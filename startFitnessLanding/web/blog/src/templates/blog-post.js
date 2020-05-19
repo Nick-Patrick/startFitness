@@ -43,8 +43,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
         <div className="row" style={{ paddingTop: 20, paddingBottom: 10 }}>
           <div className="col-12 col-lg-6">
-            <div className="text-container">
-              <h4>We'll coach you through this workout with the 'Start Rowing' app</h4>
+            <div className="text-center">
+              <h4>Get coached through this workout with the <span style={{ color: '#f5ca5a'}}>Start Rowing</span> app</h4>
             </div>
           </div>
           <div className="col-12 col-lg-6">

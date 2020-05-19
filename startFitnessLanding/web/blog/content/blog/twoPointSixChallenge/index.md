@@ -10,6 +10,8 @@ We thought this would be a perfect opportunity to help people support charities 
 
 All you need is a rowing machine and 26 minutes.
 
+![26 Minute Rowing](row-3.jpg)
+
 ### Why Rowing?
 
 Rowing is one of the most efficient ways to keep fit thanks to its ability to target 85% of your body’s muscles with each and every stroke. Use good technique and all major muscles get an intense workout, meaning you’ll increase strength as well as your cardiovascular capacity.
