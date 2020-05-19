@@ -10,7 +10,7 @@ We thought this would be a perfect opportunity to help people support charities 
 
 All you need is a rowing machine and 26 minutes.
 
-![26 Minute Rowing](row-3.jpg)
+![26 Minute Rowing](26MinuteRowing.jpg)
 
 ### Why Rowing?
 
