@@ -50,6 +50,10 @@ const SEO = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          content: `https://www.startfitness.life/images/iphoneCombined.png`,
+        },
+        {
           property: `og:type`,
           content: `website`,
         },
