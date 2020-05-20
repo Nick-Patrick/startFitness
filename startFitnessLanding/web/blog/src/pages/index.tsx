@@ -40,7 +40,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <article key={node.fields.slug}>
+          <article className='blog-article' key={node.fields.slug}>
             <header>
               <h3 style={{ marginBottom: rhythm(1 / 4) }}>
                 <small style={{fontSize: 16, textDecoration: 'none'}}>{node.frontmatter.date}</small>
