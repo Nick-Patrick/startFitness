@@ -7,7 +7,7 @@ In a rush? Try this Tabata based workout for maximum fat burning in minimum time
 
 One of the most versatile cardiovascular options available to you, the rowing machine will effectively punish your body into submission. According to [British Rowing](https://www.britishrowing.org/), the exercise uses 85 percent of your muscles across nine different major muscle groups. What better way to get your heart and metabolic rate up, than mixing rowing with some full-body exercises!
 
-![Burn Fat with Rowing](sea-2.jpg)
+![Burn Fat with Rowing](sea-2-copy.jpg)
 
 ### Fat Burner Rowing Workout
 
