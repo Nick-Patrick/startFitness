@@ -813,6 +813,11 @@ input[type='checkbox'] {
 	background-size: cover;
 }
 
+.header-running {
+	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../images/header-background-running.jpg') center center no-repeat;
+	background-size: cover;
+}
+
 .header .header-content {
 	padding-top: 8.5rem;
 	padding-bottom: 7rem;
