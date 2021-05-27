@@ -78,7 +78,6 @@ const Layout = ({ children }) => {
               <ul className="list-unstyled li-space-lg yellow">
                 <li className="media">
                   <i className="fas fa-square"></i>
-                  <div className="media-body"><a href="https://play.google.com/store/apps/details?id=com.simplyfit.rowing&hl=en">Start Rowing on Android Play Store</a></div>
                 </li>
                 <li className="media">
                   <i className="fas fa-square"></i>
